@@ -1,1 +1,30 @@
 apiVersion: v1
+entries:
+  nginx:
+  - annotations:
+      category: Infrastructure
+    apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-20T17:31:09.32387-06:00"
+    description: Sri's version of nginx chart
+    digest: fbd8e54e879256b538e2f5679b896bb120f0b1cd8b5ab50b3bb5d6b5a9b22020
+    home: https://github.com/Mirantis/helm-charts
+    icon: https://www.mirantis.com/json/docker-enterprise-container-cloud-icon-medium.svg
+    keywords:
+    - nginx
+    - http
+    - web
+    - www
+    - reverse proxy
+    maintainers:
+    - email: showdhury@mirantis.com
+      name: Mirantis
+    name: nginx
+    sources:
+    - https://github.com/mirantis/helm-charts
+    - http://www.nginx.org
+    type: application
+    urls:
+    - nginx-0.2.0.tgz
+    version: 0.2.0
+generated: "2021-01-20T17:31:09.321453-06:00"
