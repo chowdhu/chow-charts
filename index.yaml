@@ -25,6 +25,6 @@ entries:
     - http://www.nginx.org
     type: application
     urls:
-    - nginx-0.2.0.tgz
+    - https://chowdhu.github.io/chow-charts/nginx-0.2.0.tgz
     version: 0.2.0
 generated: "2021-01-20T17:31:09.321453-06:00"
